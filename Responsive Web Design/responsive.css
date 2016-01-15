@@ -1,0 +1,42 @@
+.navbar {
+	padding: 0
+	margin: 0
+	list-style-type: none
+	border: solid;
+	background-color: #339999;
+	height: 50px;
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.navbar li a {
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+	line-height: 50px;
+
+
+
+}
+
+.html-css-image {
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.content {
+	padding: 20px;
+}
+
+li.navbar-links {
+	list-style-type: none;
+	display: inline-block;
+} 
+	
+.book-list {
+	padding: 65px;
+	
+
+}
